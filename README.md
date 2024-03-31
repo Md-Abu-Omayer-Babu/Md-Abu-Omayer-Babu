@@ -1,5 +1,5 @@
 ### Hi there 👋, Md Abu Omayer Babu
-#### CSE undergrad student | Competitive Programmer
+#### CSE undergrad student | Competitive Programmer | Problem Solver
 ![CSE undergrad student | Competitive Programmer](https://media.licdn.com/dms/image/D5616AQFQZUZZE48Muw/profile-displaybackgroundimage-shrink_350_1400/0/1711906921577?e=1717632000&v=beta&t=SPd0E5x8xeMBHZnzEkAfqAQykWVbICxoo9aJG7BOmzs)
 
 "CSE undergraduate student with a passion for competitive programming and problem-solving. Actively engaged in online judges to enhance skills. Aspiring software engineer dedicated to achieving excellence in the field."
