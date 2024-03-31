@@ -23,4 +23,4 @@ Skills: C / C++ / Python / Java
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Md-Abu-Omayer-Babu)  
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Omayer)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Omayer)](https://github.com/anuraghazra/github-readme-stats)
