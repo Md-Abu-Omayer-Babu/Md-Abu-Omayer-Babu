@@ -17,8 +17,6 @@ Skills: C / C++ / Python / Java
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Abu-Omayer-Babu)](https://github.com/Md-Abu-Omayer-Babu/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Abu-Omayer-Babu)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Abu-Omayer-Babu&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Md-Abu-Omayer-Babu)  
