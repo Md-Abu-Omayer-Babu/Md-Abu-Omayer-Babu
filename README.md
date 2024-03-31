@@ -12,6 +12,7 @@ Skills: C / C++ / Python / Java
 - 📫 How to reach me: abuomayerbabu@gmail.com 
 
 https://wakatime.com/badge/user/018d7961-d20a-49ba-ac4c-1941d9d1143a.svg
+[![wakatime](https://wakatime.com/badge/user/018d7961-d20a-49ba-ac4c-1941d9d1143a.svg)](https://wakatime.com/@018d7961-d20a-49ba-ac4c-1941d9d1143a)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-Abu-Omayer-Babu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100035728171374)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Omayer_Babu)  
 
