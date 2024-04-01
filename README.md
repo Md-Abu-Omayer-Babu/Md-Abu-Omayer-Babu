@@ -2,21 +2,20 @@
 #### CSE undergrad student | Competitive Programmer | Problem Solver
 ![CSE undergrad student | Competitive Programmer](https://media.licdn.com/dms/image/D5616AQFQZUZZE48Muw/profile-displaybackgroundimage-shrink_350_1400/0/1711906921577?e=1717632000&v=beta&t=SPd0E5x8xeMBHZnzEkAfqAQykWVbICxoo9aJG7BOmzs)
 
-"CSE undergraduate student with a passion for competitive programming and problem-solving. Actively engaged in online judges to enhance skills. Aspiring software engineer dedicated to achieving excellence in the field."
+CSE undergraduate student with a passion for competitive programming and problem-solving. Actively engaged in online judges to enhance skills. Aspiring software engineer dedicated to achieving excellence in the field.
 
 Skills: C / C++ / Python / Java
 
-- 🔭 I’m currently working on CodeAlpha ( Java and Python Development Intern ) 
-- 🌱 I’m currently learning Java 
-- 👯 I’m looking to collaborate on github 
+- 🔭 I’m currently working on CodeAlpha (Java and Python Development Intern)
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate on GitHub
 - 📫 How to reach me: abuomayerbabu@gmail.com 
 
 [![wakatime](https://wakatime.com/badge/user/018d7961-d20a-49ba-ac4c-1941d9d1143a.svg)](https://wakatime.com/@018d7961-d20a-49ba-ac4c-1941d9d1143a)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-Abu-Omayer-Babu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100035728171374)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Omayer_Babu)  
+[<img src='https://img.icons8.com/color/48/000000/github--v1.png' alt='github' height='40'>](https://github.com/Md-Abu-Omayer-Babu) [<img src='https://img.icons8.com/color/48/000000/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/100035728171374) [<img src='https://img.icons8.com/color/48/000000/twitter--v1.png' alt='twitter' height='40'>](https://twitter.com/@Omayer_Babu)  
 
-![image](https://github.com/Md-Abu-Omayer-Babu/Md-Abu-Omayer-Babu/assets/165560324/c88c846e-2a11-4cfb-96bd-099ca6a285f6)
-(https://www.linkedin.com/in/md-abu-omayer-babu-800b1729a/)
+[![image](https://github.com/Md-Abu-Omayer-Babu/Md-Abu-Omayer-Babu/blob/main/assets/linkedin.png)](https://www.linkedin.com/in/md-abu-omayer-babu-800b1729a/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Abu-Omayer-Babu)](https://github.com/Md-Abu-Omayer-Babu/github-readme-stats)
 
