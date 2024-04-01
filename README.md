@@ -13,11 +13,8 @@ Skills: C / C++ / Python / Java
 
 [![wakatime](https://wakatime.com/badge/user/018d7961-d20a-49ba-ac4c-1941d9d1143a.svg)](https://wakatime.com/@018d7961-d20a-49ba-ac4c-1941d9d1143a)
 
-[<img src='https://img.icons8.com/color/48/000000/github--v1.png' alt='github' height='40'>](https://github.com/Md-Abu-Omayer-Babu) [<img src='https://img.icons8.com/color/48/000000/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/100035728171374) [<img src='https://img.icons8.com/color/48/000000/twitter--v1.png' alt='twitter' height='40'>](https://twitter.com/@Omayer_Babu)  
+[<img src='https://img.icons8.com/color/48/000000/github--v1.png' alt='github' height='40'>](https://github.com/Md-Abu-Omayer-Babu) [<img src='https://img.icons8.com/color/48/000000/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/100035728171374) [<img src='https://img.icons8.com/color/48/000000/twitter--v1.png' alt='twitter' height='40'>](https://twitter.com/@Omayer_Babu)[![LinkedIn](https://github.com/Md-Abu-Omayer-Babu/Md-Abu-Omayer-Babu/raw/main/assets/linkedin.png)](https://www.linkedin.com/in/md-abu-omayer-babu-800b1729a/)
 
-<a href="https://www.linkedin.com/in/md-abu-omayer-babu-800b1729a/">
-    <img src="https://github.com/Md-Abu-Omayer-Babu/Md-Abu-Omayer-Babu/raw/main/assets/linkedin.png" alt="LinkedIn" width="40" height="40">
-</a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Abu-Omayer-Babu)](https://github.com/Md-Abu-Omayer-Babu/github-readme-stats)
