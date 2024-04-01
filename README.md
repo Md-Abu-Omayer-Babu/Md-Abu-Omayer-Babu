@@ -15,10 +15,7 @@ Skills: C / C++ / Python / Java
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-Abu-Omayer-Babu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100035728171374)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Omayer_Babu)  
 
- [[params.social]]
-    icon = "![image](https://github.com/Md-Abu-Omayer-Babu/Md-Abu-Omayer-Babu/assets/165560324/61f28bc9-500f-42e3-8354-6bd81caf6718)
-"
-    link = "(https://www.linkedin.com/in/md-abu-omayer-babu-800b1729a/)"
+[![image](https://github.com/Md-Abu-Omayer-Babu/Md-Abu-Omayer-Babu/assets/165560324/61f28bc9-500f-42e3-8354-6bd81caf6718)](https://www.linkedin.com/in/md-abu-omayer-babu-800b1729a/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Abu-Omayer-Babu)](https://github.com/Md-Abu-Omayer-Babu/github-readme-stats)
 
