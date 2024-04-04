@@ -30,3 +30,19 @@ Skills: C / C++ / Python / Java
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Md-Abu-Omayer-Babu)  
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Omayer)](https://github.com/anuraghazra/github-readme-stats)
+
+name: Current year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.calendar.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_calendar: yes
+name: Full history calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.calendar.full.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_calendar: yes
+  plugin_calendar_limit: 0
