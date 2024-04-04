@@ -1,6 +1,6 @@
 ### Hi there 👋, Md Abu Omayer Babu
 #### CSE undergrad student | Competitive Programmer | Problem Solver
-![CSE undergrad student | Competitive Programmer]![image]!![GIF](https://s12.gifyu.com/images/SVt2v.gif)
+![CSE undergrad student | Competitive Programmer](https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif)
 
 
 
