@@ -1,6 +1,7 @@
 ### Hi there 👋, Md Abu Omayer Babu
 #### CSE undergrad student | Competitive Programmer | Problem Solver
-![CSE undergrad student | Competitive Programmer]https://camo.githubusercontent.com/d26893d99fe76f99fcf7d36e586ad8a0133c131fd4b101fe56494105b4238549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966
+![CSE undergrad student | Competitive Programmer]![image](https://github.com/Md-Abu-Omayer-Babu/Md-Abu-Omayer-Babu/assets/165560324/5cb075fb-f397-4de9-bb26-4e4eabe392f8)
+
 
 CSE undergraduate student with a passion for competitive programming and problem-solving. Actively engaged in online judges to enhance skills. Aspiring software engineer dedicated to achieving excellence in the field.
 
