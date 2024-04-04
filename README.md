@@ -20,7 +20,6 @@ Skills: C / C++ / Python / Java
 
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Md-Abu-Omayer-Babu)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Abu-Omayer-Babu)](https://github.com/Md-Abu-Omayer-Babu/github-readme-stats)
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Abu-Omayer-Babu&show_icons=true)-->
@@ -29,7 +28,7 @@ Skills: C / C++ / Python / Java
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Md-Abu-Omayer-Babu)  
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Omayer)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Omayer)](https://github.com/anuraghazra/github-readme-stats)
 
 - name: Current year calendar
   uses: lowlighter/metrics@latest
@@ -47,4 +46,3 @@ Skills: C / C++ / Python / Java
     base: ""
     plugin_calendar: yes
     plugin_calendar_limit: 0
-
