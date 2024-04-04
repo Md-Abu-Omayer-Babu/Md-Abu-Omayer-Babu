@@ -1,6 +1,7 @@
 ### Hi there 👋, Md Abu Omayer Babu
 #### CSE undergrad student | Competitive Programmer | Problem Solver
-![CSE undergrad student | Competitive Programmer](https://media.licdn.com/dms/image/D5616AQFQZUZZE48Muw/profile-displaybackgroundimage-shrink_350_1400/0/1711906921577?e=1717632000&v=beta&t=SPd0E5x8xeMBHZnzEkAfqAQykWVbICxoo9aJG7BOmzs)
+![CSE undergrad student | Competitive Programmer]![image](https://github.com/Md-Abu-Omayer-Babu/Md-Abu-Omayer-Babu/assets/165560324/bff83bf9-f635-4f05-8938-0898ddb257b9)
+
 
 CSE undergraduate student with a passion for competitive programming and problem-solving. Actively engaged in online judges to enhance skills. Aspiring software engineer dedicated to achieving excellence in the field.
 
@@ -29,20 +30,3 @@ Skills: C / C++ / Python / Java
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Md-Abu-Omayer-Babu)  
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Omayer)](https://github.com/anuraghazra/github-readme-stats)
-
-- name: Current year calendar
-  uses: lowlighter/metrics@latest
-  with:
-    filename: metrics.plugin.calendar.svg
-    token: ${{ secrets.METRICS_TOKEN }}
-    base: ""
-    plugin_calendar: yes
-  
-- name: Full history calendar
-  uses: lowlighter/metrics@latest
-  with:
-    filename: metrics.plugin.calendar.full.svg
-    token: ${{ secrets.METRICS_TOKEN }}
-    base: ""
-    plugin_calendar: yes
-    plugin_calendar_limit: 0
