@@ -25,7 +25,7 @@ Skills: C / C++ / Python / Java
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Abu-Omayer-Babu&show_icons=true)-->
 
-![GitHub metrics](https://metrics.lecoq.io/Md-Abu-Omayer-Babu)  
+![GitHub metrics](https://metrics.lecoq.io/Md-Abu-Omayer-Babu) 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Md-Abu-Omayer-Babu)  
 
