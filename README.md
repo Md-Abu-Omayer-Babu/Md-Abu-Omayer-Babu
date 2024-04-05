@@ -14,7 +14,6 @@ Skills: C / C++ / Python / Java
 - 📫 How to reach me: abuomayerbabu@gmail.com 
 
 [![wakatime](https://wakatime.com/badge/user/018d7961-d20a-49ba-ac4c-1941d9d1143a.svg)](https://wakatime.com/@018d7961-d20a-49ba-ac4c-1941d9d1143a)
-
 ![](https://komarev.com/ghpvc/?username=Md-Abu-Omayer-Babu&style=flat-square)
 
 
