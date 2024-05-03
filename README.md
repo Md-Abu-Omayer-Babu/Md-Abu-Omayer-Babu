@@ -8,10 +8,10 @@ CSE undergraduate student with a passion for competitive programming and problem
 
 Skills: C / C++ / Python / Java
 
-- 🔭 I’m currently working on CodeAlpha (Java and Python Development Intern)
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on GitHub
-- 📫 How to reach me: abuomayerbabu@gmail.com 
+- 🔭 I’m currently working on 𝐂𝐨𝐝𝐞𝐀𝐥𝐩𝐡𝐚 (𝐉𝐚𝐯𝐚 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐈𝐧𝐭𝐞𝐫𝐧)
+- 🌱 I’m currently learning 𝐉𝐚𝐯𝐚
+- 👯 I’m looking to collaborate on 𝐆𝐢𝐭𝐇𝐮𝐛
+- 📫 How to reach me: 𝗮𝗯𝘂𝗼𝗺𝗮𝘆𝗲𝗿𝗯𝗮𝗯𝘂@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺 
 
 [![wakatime](https://wakatime.com/badge/user/018d7961-d20a-49ba-ac4c-1941d9d1143a.svg)](https://wakatime.com/@018d7961-d20a-49ba-ac4c-1941d9d1143a)  
 ![](https://komarev.com/ghpvc/?username=Md-Abu-Omayer-Babu&style=flat-square)
