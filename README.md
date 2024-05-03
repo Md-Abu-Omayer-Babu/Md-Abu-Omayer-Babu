@@ -6,7 +6,7 @@
 
 CSE undergraduate student with a passion for competitive programming and problem-solving. Actively engaged in online judges to enhance skills. Aspiring software engineer dedicated to achieving excellence in the field.
 
-Skills: C / C++ / Python / Java
+Skills: 𝗖 / 𝗖++ / 𝗣𝘆𝘁𝗵𝗼𝗻 / 𝗝𝗮𝘃𝗮 / 𝗠𝘆𝗦𝗤𝗟 (𝗦𝗤𝗟)
 
 - 🔭 I’m currently working on 𝐂𝐨𝐝𝐞𝐀𝐥𝐩𝐡𝐚 (𝐉𝐚𝐯𝐚 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐈𝐧𝐭𝐞𝐫𝐧)
 - 🌱 I’m currently learning 𝐉𝐚𝐯𝐚
