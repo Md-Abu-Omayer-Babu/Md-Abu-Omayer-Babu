@@ -8,7 +8,7 @@ CSE undergraduate student with a passion for competitive programming and problem
 
 Skills: 𝗖/𝗖++, 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗝𝗮𝘃𝗮, 𝗠𝘆𝗦𝗤𝗟 (𝗦𝗤𝗟)
 
-- 🔭 I’m currently working on 𝐂𝐨𝐝𝐞𝐀𝐥𝐩𝐡𝐚 (𝐉𝐚𝐯𝐚 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐈𝐧𝐭𝐞𝐫𝐧)
+- 🔭 I’m currently working on 𝐓𝐞𝐜𝐡𝐌𝐢𝐧𝐝 𝐈𝐧𝐬𝐭𝐢𝐭𝐮𝐭𝐞 (𝐅𝐨𝐮𝐧𝐝𝐞𝐫 & 𝐂𝐄𝐎)
 - 🌱 I’m currently learning 𝐉𝐚𝐯𝐚
 - 👯 I’m looking to collaborate on 𝐆𝐢𝐭𝐇𝐮𝐛
 - 📫 How to reach me: 𝗮𝗯𝘂𝗼𝗺𝗮𝘆𝗲𝗿𝗯𝗮𝗯𝘂@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺 
