@@ -9,7 +9,7 @@ CSE undergraduate student with a passion for competitive programming and problem
 Skills: 𝗖/𝗖++, 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗝𝗮𝘃𝗮, 𝗠𝘆𝗦𝗤𝗟 (𝗦𝗤𝗟)
 
 - 🔭 I’m currently working on 𝐓𝐞𝐜𝐡𝐌𝐢𝐧𝐝 𝐈𝐧𝐬𝐭𝐢𝐭𝐮𝐭𝐞 (𝐅𝐨𝐮𝐧𝐝𝐞𝐫 & 𝐂𝐄𝐎)
-- 🌱 I’m currently learning 𝐉𝐚𝐯𝐚
+- 🌱 I’m currently learning 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 (𝑴𝑬𝑹𝑵 𝑺𝒕𝒂𝒄𝒌)
 - 👯 I’m looking to collaborate on 𝐆𝐢𝐭𝐇𝐮𝐛
 - 📫 How to reach me: 𝗮𝗯𝘂𝗼𝗺𝗮𝘆𝗲𝗿𝗯𝗮𝗯𝘂@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺 
 
