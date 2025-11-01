@@ -9,7 +9,7 @@ Developing scalable SaaS, web & mobile apps, AI/ML solutions, IoT systems & cybe
 
 ## 🚀 About Me
 
-- 🔭 **Currently working on**: Sirius Lab Ltd. (Co-Founder & CTO) & TechMind Institute (Founder & CEO)  
+- 🔭 **Currently working on**: [Sirius Lab Ltd.](https://www.siriuslabltd.com/) (Co-Founder & CTO) & [TechMind Institute](https://www.linkedin.com/company/techmind-institute/?viewAsMember=true) (Founder & CEO)  
 - 🌱 **Currently Learning**: Software Engineering, AI/ML  
 - 👯 **Looking to collaborate on**: Open-source, AI/ML, Web, App, IoT, and other tech projects  
 - 📫 **Reach me at**: abuomayerbabu@gmail.com  
