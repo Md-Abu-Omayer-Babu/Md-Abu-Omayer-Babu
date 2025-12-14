@@ -42,6 +42,7 @@ Developing scalable SaaS, web & mobile apps, AI/ML solutions, IoT systems & cybe
 | Project | Description |
 |---|---|
 | **Store Management System, JKKNIU** [[Live Link]](https://store.jkkniu.edu.bd/developers) | Managing the JKKNIU store |
+| **Confident Minds Club, JKKNIU** [[Live Link]](https://www.confidentmindsclub.tech/developers) | Confident Minds Club's Website |
 | **Anthro-Insights** [[Live Link]](https://anthro-insight-frontend.onrender.com/) | Multi-user blogging platform for Anthropologists |
 | **Code Reviewer AI** | AI-powered code review and feedback system |
 | **JKKNIU Entrance Monitoring System** | Smart vehicle entry-exit monitoring using CCTV |
