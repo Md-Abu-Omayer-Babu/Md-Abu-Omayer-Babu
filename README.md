@@ -15,9 +15,9 @@ Developing scalable SaaS, web & mobile apps, AI/ML solutions, IoT systems & cybe
 - 📫 **Reach me at**: abuomayerbabu@gmail.com  
 
 🌐 **Connect with me**:  
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/md-abu-omayer-babu-800b1729a/)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/abuomayerbabu/)
 [![GitHub](https://img.icons8.com/color/48/000000/github--v1.png)](https://github.com/Md-Abu-Omayer-Babu)
-[![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://www.facebook.com/100035728171374)
+[![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://www.facebook.com/abuomayerbabu)
 [![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/@Omayer_Babu)
 
 
